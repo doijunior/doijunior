@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Gilson Doi Junior and I'm a developer @tilit
+My name is Gilson Doi Junior and I'm a developer [@tilit](https://github.com/tilit) and I invest through [@UIRD](https://github.com/UIRD)
 
 ![Black Kamen Rider arriving gif](https://media.giphy.com/media/UHQUo7AlA1zXi/giphy.gif)
 
@@ -11,4 +11,4 @@ My name is Gilson Doi Junior and I'm a developer @tilit
 - 🌱 I’m currently learning Rust
 - 💬 Ask me about technology, investments and arts
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+- ⚡ Fun fact: I have eight tattoos
