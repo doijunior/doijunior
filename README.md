@@ -4,6 +4,7 @@ My name is Gilson Doi Junior and I'm a developer [@tilit](https://github.com/til
 
 ![Black Kamen Rider arriving gif](https://media.giphy.com/media/UHQUo7AlA1zXi/giphy.gif)
 
+[![Gilson Doi Junior's DEV Profile](http://img.shields.io/badge/dev.to-profile-black.svg)](https://dev.to/doijunior)
 [![My website badge](http://img.shields.io/badge/my-website-purple.svg)](http://doijunior.github.io) 
 [![Twitter badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](http://twitter.com/doijunior) 
 
