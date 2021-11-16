@@ -14,7 +14,7 @@ My name is Gilson Doi Junior and I'm a developer [@tilit](https://github.com/til
 [![Twitter badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](http://twitter.com/doijunior) 
 
 - 🔭 I currently work with Javascript
-- 🌱 I’m currently learning Rust
+- 🌱 I’m currently learning a bit about web3, solidity and Rust
 - 💬 Ask me about technology, investments and arts
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I have eight tattoos
