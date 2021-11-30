@@ -4,7 +4,7 @@
 
 
 
-My name is Gilson Doi Junior and I'm a developer [@tilit](https://github.com/tilit) and I invest through [@UIRD](https://github.com/UIRD)
+My name is Gilson Doi Junior and I'm a developer [@loadsmart](https://github.com/loadsmart)/@opendock
 
 
 [![Gilson Doi Junior's DEV Profile](http://img.shields.io/badge/profile-dev.to-black.svg)](https://dev.to/doijunior) 
