@@ -1,5 +1,3 @@
-<img src="https://media.giphy.com/media/UHQUo7AlA1zXi/giphy.gif" align="center" width="100%"/>
-
 ### Hello World
 
 
@@ -13,8 +11,4 @@ My name is Gilson Doi Junior and I'm a developer [@loadsmart](https://github.com
 [![My website badge](http://img.shields.io/badge/my-website-purple.svg)](http://doijunior.github.io) 
 [![Twitter badge](https://badgen.net/badge/icon/twitter?icon=twitter&label)](http://twitter.com/doijunior) 
 
-- 🔭 I currently work with Javascript
-- 🌱 I’m currently learning a bit about web3, solidity and Rust
-- 💬 Ask me about technology, investments and arts
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I have eight tattoos
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=doijunior&layout=compact&langs_count=10)](https://github.com/doijunior/github-readme-stats)
