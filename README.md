@@ -2,7 +2,7 @@
 
 
 
-My name is Gilson Doi Junior and I'm a developer [@loadsmart](https://github.com/loadsmart)/@opendock
+My name is Gilson Doi Junior
 
 
 [![Gilson Doi Junior's DEV Profile](http://img.shields.io/badge/profile-dev.to-black.svg)](https://dev.to/doijunior) 
